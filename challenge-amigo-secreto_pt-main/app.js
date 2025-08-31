@@ -52,5 +52,5 @@ function exibirLista() {
     for ( i = 0 ; i < amigos.length; i++){
         lista.innerHTML += amigos[i] + '<br>';
         //'<br>' quebra a linha (não recomendado para usar com css)
-    }
+    }  
 }
