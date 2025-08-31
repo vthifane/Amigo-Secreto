@@ -15,3 +15,5 @@ Este projeto permite cadastrar amigos e sortear aleatoriamente um **amigo secret
 - JavaScript 
 
 ---
+
+Clone o repositório e teste agora :) !
